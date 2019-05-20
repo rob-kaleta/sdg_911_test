@@ -3,8 +3,26 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
+## World Bank SDG 9.1.1 Metadata: 
+**Definition:**
+The indicator (commonly known as the Rural Access Index or RAI) measures the share of a country’s rural
+population that lives within 2 km of an all-season road.
+**Rationale:**
+Among other factors, transport connectivity is an essential part of the enabling environment for inclusive
+and sustained growth. In developing countries, particularly in Africa, the vast majority of agricultural
+production remains smallholder farming with limited access to local, regional, or global markets. Isolated
+manufacturing and other local businesses (except for those related to mining) often lag behind in the
+global market. Limited transport connectivity is also a critical constraint to accessing social and
+administrative services, especially in rural areas where the majority of the poor live.
+Rural access is key to unleashing untapped economic potential and eradicating poverty in many
+developing countries. In the short term, transport costs and travel time can be reduced by improved road
+conditions. Over the longer term, agricultural productivity will be increased, and firms will become more
+profitable with the creation of more jobs, eventually helping to alleviate poverty. 
+
+Full metadata: https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-01.pdf
+
 ## Data
-Before running the script download the following data sets and place them in the specified folders
+Before running the script download the following data sets and place them in the specified folders.
 
 **GRIP roads:**
  * https://www.globio.info/download-grip-dataset 
@@ -17,7 +35,7 @@ Before running the script download the following data sets and place them in the
  * Unzip both into data/raster folder in your working directory
 
 ## Authors / Contributors
-Robert Kaleta - ONS Geospatial
+ONS Geography Research
 
 ## Sources
 **Global Roads Inventory Project**
