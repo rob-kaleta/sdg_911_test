@@ -5,6 +5,7 @@
 
 ## Data
 Before running the script download the following data sets and place them in the specified folders
+
 **GRIP roads:**
  * https://www.globio.info/download-grip-dataset 
  * Download the fgdb file for the relevant region
